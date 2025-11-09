@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="100%" height="100%" fill="#071022" rx="16" />
+  <circle cx="300" cy="150" r="92" fill="#6be8b7" opacity="0.16" />
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif">
+    <text x="50%" y="46%" text-anchor="middle" font-size="34" font-weight="700">Creatine Monohydrate</text>
+    <text x="50%" y="62%" text-anchor="middle" font-size="16" fill="#cbd5e1">Micronized · 300g</text>
+  </g>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="100%" height="100%" rx="12" fill="#06111a"/>
+  <circle cx="60" cy="50" r="26" fill="#6be8b7" />
+  <text x="60" y="86" font-size="10" fill="#06111a" font-family="Arial" text-anchor="middle">CREATINE</text>
+</svg>
