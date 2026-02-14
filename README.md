@@ -1,4 +1,5 @@
 # Ripped Up Nutrition — demo storefront
+https://ripped-up-nutrition.vercel.app/
 
 This small demo is a single-page supplement product site built with Vite + React. It includes:
 
